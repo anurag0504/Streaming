@@ -1,0 +1,5 @@
+D:/Assignment3_Remoteview/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/GStreamerViewer.dir
+D:/Assignment3_Remoteview/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/Assignment3_Remoteview/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Assignment3_Remoteview/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/GStreamerViewer_autogen_timestamp_deps.dir
+D:/Assignment3_Remoteview/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Debug/CMakeFiles/GStreamerViewer_autogen.dir
